@@ -41,7 +41,7 @@ Estudantes interessados em iniciar sua jornada na área de tecnologia.
 ## 🔗 Acesso ao projeto
 
 O site está hospedado via **GitHub Pages** e pode ser acessado no link:  
-[🔗 Clique aqui para visualizar](http://127.0.0.1:5500/index.html)
+[🔗 Clique aqui para visualizar](https://dnclanding.netlify.app/)
 
 
 ## 📄 Licença
